@@ -52,6 +52,6 @@ The bot will start monitoring for visitors and send alerts when unknown people a
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author- Aman Kumar
+Author- Vansh Raj Singh
 
-Email- amankundu369@gmail.com
+Email- vanshraj12004@gmail.com
